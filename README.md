@@ -7,6 +7,5 @@ We have used Adience dataset in this project. This dataset contains 26,580 photo
 As a output, this model build a square line around the faces in the image and shows the predicted age group label and gender of the person in the image.
 
 # Future Work
-1.This works on a local system, we can deploy it on a cloud.
-
-2. We can improve the accuracy by using more data, data augmentation and better network architectures.
+This works on a local system, we can deploy it on a cloud.
+We can improve the accuracy by using more data, data augmentation and better network architectures.
