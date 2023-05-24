@@ -8,4 +8,5 @@ As a output, this model build a square line around the faces in the image and sh
 
 # Future Work
 1.This works on a local system, we can deploy it on a cloud.
+
 2. We can improve the accuracy by using more data, data augmentation and better network architectures.
