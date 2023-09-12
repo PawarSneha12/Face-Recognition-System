@@ -1,5 +1,5 @@
 # Face-Recognition-System
-It is a web application which detects the face of the person and then estimate the age and gender of that person. This projects works for given image as wll as live images through the web cam.
+It is a web application which detects the face of the person and then estimate the age and gender of that person. This projects works for given image as well as live images through the web cam.
 
 # Dataset
 We have used Adience dataset in this project. This dataset contains 26,580 photos across 2284 subjects with a binary gender label and one label from eight different age groups, partitioned into five split.
